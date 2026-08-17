@@ -1,2 +1,2 @@
-# HTML-Projects
-Aprendendo HTML, CSS, JS e Php.
+# HTML-CSS-JavaScript Projects
+* Colocando na prática o básico aprendido sobre HTML, CSS, JS na faculdade.
